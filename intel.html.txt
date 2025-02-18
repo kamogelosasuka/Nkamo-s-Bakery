@@ -8,7 +8,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>My First GitHub Page</title>
+<title>Nkamo's Sweet Treat Bakery</title>
 
 </head>
 
@@ -16,14 +16,14 @@
 
 <header>
 
-<h1>Welcome to My Website!</h1>
+<h1>Nkamo's Sweet Treat Bakery- Home Of Delicious Bakes!</h1>
 
 </header>
 
- 
-
-<main>
-
+ <main>
+ <h2>Welcome to Sweet Treats Bakery!</h2>
+        <p>Indulge in our freshly baked cakes, cupcakes, and biscuits made with love and the finest ingredients. Perfect for every occasion!</p>
+        <p>We offer a variety of treats, from classic flavors to creative, custom-made desserts tailored to your preference.</p>
 <p>This is a simple webpage hosted on GitHub Pages.</p>
 
 <p>Here's a picture of a cute cat:</p>
@@ -32,7 +32,7 @@
 
  
 
-<p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
+<p>Visit <.</p>
 
 </main>
 
@@ -40,7 +40,7 @@
 
 <footer>
 
-<p>&copy; 2025 Your Name</p>
+<p>&copy; 2025 Nkamo's Sweet Treat Bakery</p>
 
 </footer>
 
