@@ -1,1 +1,1 @@
-# Nkamo's Sweet Treat Bakery
+# Nkamo's bakery
